@@ -10,7 +10,7 @@ As technology enthusiasts, we are always aware of the latest trends in our indus
 
 # Links
 
-![LinkedIn](https://www.linkedin.com/company/asyncsoftware?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/company/asyncsoftware/))
 
 ## Hi there 👋
 
