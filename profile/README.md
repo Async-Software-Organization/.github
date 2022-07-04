@@ -1,5 +1,17 @@
 # Async Software
 
+## Flexible & High Quality Software Development
+
+### Individual Software Development
+
+Starting with a precise requirements analysis, we support your company every step of the way until the product is ready for use and beyond. With short feedback loops and clear processes, you retain an overview at all times and requirements can be changed at short notice. This reduces development time and costs. We help you select the right technologies and take over the entire development.
+
+As technology enthusiasts, we are always aware of the latest trends in our industry and are happy to implement them. However, to create the greatest added value for our customers, we also know exactly when to fall back on the tried and tested.
+
+# Links
+
+![LinkedIn](https://www.linkedin.com/company/asyncsoftware?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ## Hi there 👋
 
 <!--
