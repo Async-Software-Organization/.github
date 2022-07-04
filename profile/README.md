@@ -10,17 +10,6 @@ As technology enthusiasts, we are always aware of the latest trends in our indus
 
 # Links
 
-![LinkedIn](https://www.linkedin.com/company/asyncsoftware/)
-
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/asyncsoftware/)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/async-software)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />]([https://patrick-eichler.com/](https://async-software.de/))
